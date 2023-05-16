@@ -25,3 +25,10 @@ KNN --> ~70% accurate
 NOTE : its not like GaussianNB is better . It depends on DATA . ForExample I got accuracy of RandomForest more than GaussianNB in Task1(I did that just for practice )
 
 ---
+
+## Submission Results :
+<ul>
+  <li> Task 1: Correct </li>
+  <li> Task 2: The gender_submission.csv is not the correct y_test, its infact not available. You should have split the data into training and test. But it's fine for now. Good Work </li>
+  <li> <b>Submission Accepted</b> </li>
+  <li> Unlocked Assigment 2: https://drive.google.com/file/d/1aQ62-UioJ5y-aKBXhk5TutvDl7uhv-ZW/view?usp=sharing </li>
